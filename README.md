@@ -1,1 +1,1 @@
-# sapui5-starter
+sapui5 starter project with babel + sass incoming
